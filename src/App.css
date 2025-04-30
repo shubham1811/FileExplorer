@@ -1,0 +1,12 @@
+.App{
+  text-align: left;
+}
+.childrenContainer{
+  padding-left: 10px;
+}
+.parentContainer{
+  margin-top: 10px;
+}
+.Button{
+  margin-left: 10px;
+}
